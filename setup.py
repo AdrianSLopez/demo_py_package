@@ -8,7 +8,7 @@ setup(
   author = 'Adrian Salgado Lopez',                   # Type in your name
   author_email = 'adrianlopezdev@gmail.com',      # Type in your E-Mail
   url = 'https://github.com/AdrianSLopez/demo_py_package',   # Provide either the link to your github or to your website
-  download_url = 'https://github.com/AdrianSLopez/demo_py_package.git',    # I explain this later on
+  download_url = 'https://github.com/AdrianSLopez/demo_py_package/archive/refs/tags/0.1.3.tar.gz',    # I explain this later on
   keywords = [],   # Keywords that define your package best
   install_requires=[], # package dependencies
   classifiers=[
