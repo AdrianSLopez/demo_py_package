@@ -1,1 +1,1 @@
-from demo_py_package import intro
+from demo_py_package.intro import greetings
