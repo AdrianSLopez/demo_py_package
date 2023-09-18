@@ -1,1 +1,0 @@
-from src.intro import greetings
