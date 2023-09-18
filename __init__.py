@@ -1,1 +1,0 @@
-from demo_py_package.src.intro import greetings
